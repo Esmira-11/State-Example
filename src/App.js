@@ -1,11 +1,11 @@
+import EffectTask from "./Task/EffectTask";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-import StateSample2 from "./state/StateSample2";
 
 function App() {
   return (
     <>
-    
-    <StateSample2/>
+    <EffectTask/>
     </>
   );
 }
